@@ -1,6 +1,8 @@
 # TelemetrySource
  Project created to map functions repsonsible for triggering events from various telemetry sources. 
 
+Main Mapping Sheet: [Event Mapping Google Sheet](https://docs.google.com/spreadsheets/d/1d7hPRktxzYWmYtfLFaU_vMBKX2z98bci0fssTYyofdo/edit?usp=sharing)
+
 ## Currently mapped sources: 
 ### Sysmon 
   ![Sysmon-Overview](Sysmon/API-Mapping-Images/overview.png)
