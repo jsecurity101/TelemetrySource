@@ -8,6 +8,8 @@ Main Mapping Sheet: [Event Mapping Google Sheet](https://docs.google.com/spreads
   ![Sysmon-Overview](Sysmon/API-Mapping-Images/overview.png)
 ### Window Security Events (Microsoft-Windows-Security-Auditing)
   ![WSE-Overview](Microsoft-Windows-Security-Auditing/Images/overview.png)
+### Threat Intelligence Events (Microsoft-Windows-Threat-Intelligence)
+  ![Microsoft-Windows-Threat-Intelligence](Microsoft-Windows-Threat-Intelligence/Images/overview.png)
 
 
 * Each source has it's own README file with the necessary information needed to understand how the mappings work. 
